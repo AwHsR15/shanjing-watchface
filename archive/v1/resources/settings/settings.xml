@@ -1,0 +1,6 @@
+<settings>
+<setting propertyKey="@Properties.Theme" title="@Strings.ThemeTitle"><settingConfig type="numeric" min="0" max="3"/></setting>
+<setting propertyKey="@Properties.StressThreshold" title="@Strings.StressTitle"><settingConfig type="numeric" min="1" max="100"/></setting>
+<setting propertyKey="@Properties.LowBattery" title="@Strings.BatteryTitle"><settingConfig type="numeric" min="1" max="50"/></setting>
+<setting propertyKey="@Properties.CalorieGoal" title="@Strings.GoalTitle"><settingConfig type="numeric" min="100" max="10000"/></setting>
+</settings>

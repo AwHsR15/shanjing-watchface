@@ -1,0 +1,5 @@
+# real data, with frame timings printed (to GARMIN/Apps/LOGS/MOUNTAIN.TXT on the watch)
+project.manifest = manifest.xml
+base.sourcePath = source
+base.resourcePath = resources
+base.excludeAnnotations = demo;noprof

@@ -1,0 +1,22 @@
+<strings>
+  <string id="AppName">山境 Mountain</string>
+  <string id="SkyTitle">天空</string>
+  <string id="SkyAuto">自动（随日出日落）</string>
+  <string id="SkyDawn">清晨</string>
+  <string id="SkyDay">白昼</string>
+  <string id="SkyDusk">黄昏</string>
+  <string id="SkyNight">夜晚</string>
+  <string id="WeatherTitle">天气入景（雨雪云雾随实况）</string>
+  <string id="MotionTitle">动效</string>
+  <string id="MotionRich">丰富：入场动画 + 环境动效</string>
+  <string id="MotionSimple">简洁：只有入场动画</string>
+  <string id="MotionOff">关闭</string>
+  <string id="StressTitle">压力达到多少时山口冒火（1–100）</string>
+  <string id="BatteryTitle">电量低于多少时天空出现闪电（%）</string>
+  <string id="FestivalTitle">节日天空（春节、元宵、中秋、圣诞、万圣）</string>
+  <string id="AccentTitle">强调色</string>
+  <string id="AccentAmber">琥珀</string>
+  <string id="AccentTeal">青</string>
+  <string id="AccentSakura">樱</string>
+  <string id="AccentSnow">雪</string>
+</strings>

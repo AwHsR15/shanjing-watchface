@@ -1,0 +1,19 @@
+# 编译、截图、模拟器的产物
+build/
+__pycache__/
+*.prg
+*.iq
+
+# 签名密钥永远不进仓库
+*.der
+
+# 由 Windows 自带的商业字体生成的字库：Impact（时间数字）和 v1 用的 Bahnschrift 不能分发，
+# 克隆后运行 generate_assets.py 从本机字体生成
+resources/fonts/TimeFont.*
+resources/fonts/TimeLine.*
+archive/v1/resources/fonts/*.fnt
+archive/v1/resources/fonts/*.png
+
+# 内嵌了上面字库的单文件预览页，由 make_preview.py 生成
+山境-打开预览.html
+archive/v1/山境-打开预览.html

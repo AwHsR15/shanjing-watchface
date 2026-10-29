@@ -1,0 +1,7 @@
+<fonts>
+  <font id="TimeFont" filename="TimeFont.fnt" antialias="true"/>
+  <font id="TimeLine" filename="TimeLine.fnt" antialias="true"/>
+  <font id="TextFont" filename="TextFont.fnt" antialias="true"/>
+  <font id="ValueFont" filename="ValueFont.fnt" antialias="true"/>
+  <font id="SmallFont" filename="SmallFont.fnt" antialias="true"/>
+</fonts>

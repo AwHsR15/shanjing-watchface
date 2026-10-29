@@ -1,0 +1,38 @@
+<settings>
+  <setting propertyKey="@Properties.Sky" title="@Strings.SkyTitle">
+    <settingConfig type="list">
+      <listEntry value="0">@Strings.SkyAuto</listEntry>
+      <listEntry value="1">@Strings.SkyDawn</listEntry>
+      <listEntry value="2">@Strings.SkyDay</listEntry>
+      <listEntry value="3">@Strings.SkyDusk</listEntry>
+      <listEntry value="4">@Strings.SkyNight</listEntry>
+    </settingConfig>
+  </setting>
+  <setting propertyKey="@Properties.WeatherFx" title="@Strings.WeatherTitle">
+    <settingConfig type="boolean"/>
+  </setting>
+  <setting propertyKey="@Properties.Motion" title="@Strings.MotionTitle">
+    <settingConfig type="list">
+      <listEntry value="0">@Strings.MotionRich</listEntry>
+      <listEntry value="1">@Strings.MotionSimple</listEntry>
+      <listEntry value="2">@Strings.MotionOff</listEntry>
+    </settingConfig>
+  </setting>
+  <setting propertyKey="@Properties.StressThreshold" title="@Strings.StressTitle">
+    <settingConfig type="numeric" min="1" max="100"/>
+  </setting>
+  <setting propertyKey="@Properties.LowBattery" title="@Strings.BatteryTitle">
+    <settingConfig type="numeric" min="5" max="50"/>
+  </setting>
+  <setting propertyKey="@Properties.Festivals" title="@Strings.FestivalTitle">
+    <settingConfig type="boolean"/>
+  </setting>
+  <setting propertyKey="@Properties.Accent" title="@Strings.AccentTitle">
+    <settingConfig type="list">
+      <listEntry value="0">@Strings.AccentAmber</listEntry>
+      <listEntry value="1">@Strings.AccentTeal</listEntry>
+      <listEntry value="2">@Strings.AccentSakura</listEntry>
+      <listEntry value="3">@Strings.AccentSnow</listEntry>
+    </settingConfig>
+  </setting>
+</settings>

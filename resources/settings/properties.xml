@@ -1,0 +1,9 @@
+<properties>
+  <property id="Sky" type="number">0</property>
+  <property id="WeatherFx" type="boolean">true</property>
+  <property id="Motion" type="number">0</property>
+  <property id="StressThreshold" type="number">70</property>
+  <property id="LowBattery" type="number">20</property>
+  <property id="Festivals" type="boolean">true</property>
+  <property id="Accent" type="number">0</property>
+</properties>
